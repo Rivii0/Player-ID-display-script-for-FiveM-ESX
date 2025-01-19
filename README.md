@@ -1,8 +1,8 @@
 # rivii-scoreboard
 
 ## Requirements
-- ESX Legacy
-- es_extended
+- [ESX Legacy](<https://documentation.esx-framework.org/legacy/installation/>)
+- [es_extended](<[https://documentation.esx-framework.org/legacy/installation/](https://github.com/mitlight/es_extended)>)
 
 
 ## Installation
